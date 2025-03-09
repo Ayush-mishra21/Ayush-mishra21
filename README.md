@@ -6,8 +6,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ayush-mishra-0477292a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-mishra-0477292a1" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100070487066280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100070487066280" height="30" width="40" /></a>
-<a href="https://instagram.com/ayushmishra6423" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayushmishra6423" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ayush_mishra51" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ayush_mishra51" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ayush_0151" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ayush_0151" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ayush_151/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayush_151/" height="30" width="40" /></a>
